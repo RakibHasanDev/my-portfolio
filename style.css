@@ -10,6 +10,7 @@ h3{
     font-size: 24px;
 }
 section{
+    margin-top: -65px;
     width: auto;
     height: 500px;
     display: flex;  
@@ -20,7 +21,7 @@ section{
 }
 
 .half-width{
-    margin-top: -65px;
+   
     width: 40%;
     padding: 10px;
     padding: 5%;
@@ -32,6 +33,9 @@ section{
 }
 
 .link-button{
+    font-weight: 600;
+    color: white;
+    font-size: 20px;
     text-decoration: none;
     background-image: linear-gradient(#ff6600,#ff99cc);
     padding: 10px 40px;
@@ -44,4 +48,10 @@ section{
 }
 .project{
     margin-top: 30px;
+}
+.dream-bg{
+background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+margin-top: 50px;
 }
