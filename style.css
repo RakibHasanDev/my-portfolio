@@ -10,10 +10,10 @@ h3{
     font-size: 24px;
 }
 section{
+    width: auto;
     height: 500px;
-    display: flex;
-    
-    
+    display: flex;  
+    margin-bottom:150px ;  
 }
 .orange-color{
     color: orange;
